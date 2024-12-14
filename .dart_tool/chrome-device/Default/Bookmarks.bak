@@ -1,0 +1,84 @@
+{
+   "checksum": "c4b58cbe85a6d0bbf6a84d81ee403301",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13323466085162647",
+            "date_last_used": "0",
+            "guid": "45130ee1-a924-43e9-b9bf-cacb5e443db9",
+            "id": "6",
+            "name": "localhost/r/upload/",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "http://localhost/r/upload/",
+            "visit_count": 0
+         }, {
+            "date_added": "13320700861331830",
+            "date_last_used": "0",
+            "guid": "7072c338-35dd-4a29-a79f-e48ada63eacf",
+            "id": "7",
+            "name": "Gmail",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://accounts.google.com/b/0/AddMailService",
+            "visit_count": 0
+         }, {
+            "date_added": "13320700861332520",
+            "date_last_used": "0",
+            "guid": "c8624e84-c943-4035-b431-e3b4d2f4c1bf",
+            "id": "8",
+            "name": "YouTube",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://youtube.com/",
+            "visit_count": 0
+         }, {
+            "date_added": "13320700861332829",
+            "date_last_used": "0",
+            "guid": "0d2d5088-110c-4d51-84e2-eec04967e451",
+            "id": "9",
+            "name": "‏خرائط Google",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://maps.google.com/",
+            "visit_count": 0
+         } ],
+         "date_added": "13377738353395985",
+         "date_last_used": "0",
+         "date_modified": "13323466085162647",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Favorites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13377738353395987",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13377738353395989",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile favorites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CjEKDgiIgQISCK1dnESRAQAAEgAqGGhxUGxSTnQwL3R3M2ppc05BcjF1Nmc9PUgDoAYHEqwBCAcSpwEKHFAyUjJEZHhtcEY0NkdBQ2gxY1cxU2FTeE5PUT0SJDcwNzJjMzM4LTM1ZGQtNGEyOS1hNzlmLWU0OGFkYTYzZWFjZhgAIAAoADCsu/GklDI4ppza9f0wQKac2vX9MEocZEp5OFRjSkk3T2xHR3lFZE1ETkw3R1RZNVZjPVoeIhx2aDJHVEtDRzJmMXR2ZUxPVHZjTW1iT01wdUk9ZXunQHHCPgJgBRKsAQgIEqcBChxxUTBuUkhNekJGaFFYK1JEV2t5VVZ3d0pYdlU9EiRjODYyNGU4NC1jOTQzLTQwMzUtYjQzMS1lM2I0ZDJmNGMxYmYYACAAKAAwq7vxpJQyOL+c2vX9MEC/nNr1/TBKHFpvblNQSHlZODRNRis4OHl5Q2ltTitnNWlPTT1aHiIceWZuYnZWanVzcFdwYTRSNFR3eXlVdURvTEhjPWU4+Tkzwj4CYAUSjgEIARKJAQoceXhKLzZmdmtlY3I3a3A1RVF6QjR0V0xwZGJFPRIkZDNhOTE3YWMtYWQ2NC01ZGRlLTg1NzEtNmM1N2M3YzRkZGE3GAAgACgAMPj92KTlMDijhNmk5TBAo4TZpOUwShxhUkNXTGdoRjliNUlucUtJRHZ1Si9qdlFrRmM9WgBlAAAAAMI+AmAAEqwBCAYSpwEKHG5zdFhvZ2R6eHJNY0FPL2F6TjkwSlB3YUltaz0SJDQ1MTMwZWUxLWE5MjQtNDNlOS1iOWJmLWNhY2I1ZTQ0M2RiORgAIAAoADCqu/GklDI4kaSMlfMwQJGkjJXzMEocb04rTURobmZ0U1dqV0VtdUxvR1ZSL21VNW04PVoeIhxWelpQNmtiZjFkSWxOM1hnWGpoVTVFa1RBNkk9Zeal+6LCPgJgBRKtAQgJEqgBChxJOTFJc0pLRVRuZEdXcU1uQ2tXTGJreHU3WU09EiQwZDJkNTA4OC0xMTBjLTRkNTEtODRlMi1lZWMwNDk2N2U0NTEYACAAKAAwu/6S5dkxOPGb2vX9MEDxm9r1/TBKHHh5R0JFMWZHWlJ6SWxuWWRmejc4Ym9PZkZKST1aHyIdvHZaclNNNHhSVjN0c1FkZzVOME12RFdTa25RRT1lpPvomMI+AmAFEo4BCAISiQEKHFljU1RvbnZFU1B3cUNzNEwyY3JWaHY2OEw5OD0SJDE4NGRhMTRjLTNkNDAtNTM0MS05YTU1LTcxN2RiNzA0ZGZiYhgAIAAoADD5/dik5TA4woTZpOUwQMKE2aTlMEocb1BWa2h3QlJiVjY1S0NXUjIrSU9OSFdvT3U4PVoAZQAAAADCPgJgABKOAQgDEokBChxuamdEdTg4ZUNydlhwODZwRDdmSEdjcUZwODg9EiRkNjc2OTIzMy0zMWZhLTUzNGMtODg2YS1hMmZiMzdhNmNlOWMYACAAKAAw/v3YpOUwOO6F2aTlMEDuhdmk5TBKHHl6TkIwMWNuNTRBN2NSVTB1VCsvUGdtVHRVbz1aAGUAAAAAwj4CYAAwADgA",
+   "version": 1
+}
